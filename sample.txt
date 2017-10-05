@@ -1,8 +1,8 @@
 blah
-put edited by team some text in here
+ACK some text in here
 on a couple of lines
 things in the feature branch
 
-things added in team branch
+things added in the new branch
 
 
